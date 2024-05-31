@@ -3,3 +3,8 @@ Correo_electrónico: mjmartinez873@suy.sena.edu.co
 
 Prueba: Sena
 
+> cat > kotlin.txt
+git add .
+> git commit -m
+"Añadido datos."
+> git push origin master.
